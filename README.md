@@ -1,0 +1,2 @@
+# Course_Information_Management_System
+Java课程设计—课程信息管理系统
